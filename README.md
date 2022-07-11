@@ -1,7 +1,7 @@
 # L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors
 ## MATLAB simulation by [Xuan Khai Nguyen](https://www.linkedin.com/in/khainx/)
 
-### Objective: Study and simulate the paper [L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors](https://arxiv.org/pdf/2109.06998.pdf)
+### Objective: Study and simulate this interesting work [L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors](https://arxiv.org/pdf/2109.06998.pdf)
 
 The main program `MainGeoL1_v1.m` includes three main sessions: (1) setup, (2) main loop, and (3) visualization
 1. Setup:
