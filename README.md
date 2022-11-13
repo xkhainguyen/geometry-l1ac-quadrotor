@@ -3,6 +3,8 @@
 
 ### Objective: Study and simulate this interesting work [L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors](https://arxiv.org/pdf/2109.06998.pdf)
 
+![gif](./myfile.gif)
+
 The main program `MainGeoL1_v1.m` includes three main sessions: (1) setup, (2) main loop, and (3) visualization
 1. Setup:
     - This project is developed in MATLAB using _object-oriented programming (OOP)_. This is the first time I try OOP in MATLAB and it works well.
@@ -34,3 +36,7 @@ The main program `MainGeoL1_v1.m` includes three main sessions: (1) setup, (2) m
 3. `Planner(2, x)` presents a quadrotor performing a flip with disturbance dependent on `x`.
     - `x = 1`: No disturbance
     - `x = 2, 3, 4`: Different disturbances, see codes and the original paper for details
+
+Check out `Simulation Results.docx`
+
+*Please give me a :star: if you find my repo useful!*
