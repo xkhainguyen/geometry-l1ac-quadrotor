@@ -1,5 +1,5 @@
 # L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors
-## MATLAB simulation by [Xuan Khai Nguyen](https://www.linkedin.com/in/khainx/)
+## MATLAB simulation by [Khai Nguyen](https://www.linkedin.com/in/khainx/)
 
 ### Objective: Study and simulate this interesting work [L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors](https://arxiv.org/pdf/2109.06998.pdf)
 
